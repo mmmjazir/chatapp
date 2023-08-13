@@ -1,5 +1,5 @@
 import ContractABI from './Chatapp.json'
 
-export const ChatappAddress = "0x07025D0aBeCb6026049536f8BB90832A8c8F377A";
+export const ChatappAddress = "0x5064227EA4C72ab5BE3fa800d2a367ED88B405b7";
 
 export const ChatappABI = ContractABI.abi;
